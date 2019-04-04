@@ -1,6 +1,6 @@
 
 <html >
-<head> <title>my homee page</title>
+<head> <tittle>my homee page</tittle>
 </head>
 <body>
     
